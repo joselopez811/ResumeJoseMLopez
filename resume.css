@@ -22,7 +22,8 @@ body {
 	font-size: 42px;
 	font-weight: bold;
 	letter-spacing: -2px;
-	border-bottom: 1px solid #999;
+	border: 1px solid #999;
+	border-radius: 5px;
 }
 
 #content-summarycontent {
